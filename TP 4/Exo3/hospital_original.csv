@@ -1,0 +1,9 @@
+,City,Department,Age,DaysAdmitted,DailyCost,Satisfaction,Readmitted
+0,Alger,Cardiology,45,5,200,4.5,0
+1,Annaba,Neurology,60,8,300,3.8,1
+2,Oran,Orthopedics,30,3,150,4.2,0
+3,Alger,Cardiology,50,7,220,4.0,0
+4,Oran,Neurology,40,4,280,4.1,1
+5,Annaba,Orthopedics,70,6,160,3.5,1
+6,Alger,Cardiology,35,2,210,4.7,0
+7,Oran,Neurology,55,9,290,3.9,1
