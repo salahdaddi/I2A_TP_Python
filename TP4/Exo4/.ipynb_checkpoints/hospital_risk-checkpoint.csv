@@ -1,0 +1,9 @@
+City,Department,Age,DaysAdmitted,DailyFee,Satisfaction,Readmitted,TotalCost,AgeGroup,HighCost,SatisfactionLevel,Rank,RiskScore,RiskCategory
+DZ-16,Cardiology,45,5,200,4.5,No,1000,Middle,False,Poor,5,32.0,Low
+DZ-23,Neurology,60,8,300,3.8,Yes,2400,Senior,False,Poor,2,39.8,Low
+DZ-31,Orthopedics,30,3,150,4.2,No,450,Middle,False,Poor,7,27.599999999999998,Low
+DZ-16,Cardiology,50,7,220,4.0,No,1540,Middle,False,Poor,3,35.8,Low
+DZ-31,Neurology,40,4,280,4.1,Yes,1120,Middle,False,Poor,4,31.299999999999997,Low
+DZ-23,Orthopedics,70,6,160,3.5,Yes,960,Senior,False,Poor,6,42.9,Medium
+DZ-16,Cardiology,35,2,210,4.7,No,420,Middle,False,Poor,8,27.2,Low
+DZ-31,Neurology,55,9,290,3.9,Yes,2610,Senior,False,Poor,1,38.400000000000006,Low
